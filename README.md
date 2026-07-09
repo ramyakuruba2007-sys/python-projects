@@ -10,4 +10,4 @@ A simple python project to manage student details.
 Python
 
 ## Purpose
-Practice Python programming and build project skills.
+Practice Python programming and build project skills..
